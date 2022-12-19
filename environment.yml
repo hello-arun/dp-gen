@@ -1,0 +1,14 @@
+name : TheProjectName
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - pip
+  - autopep8
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - jupyterlab-lsp
