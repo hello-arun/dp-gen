@@ -1,5 +1,5 @@
-# ML-template
-a boiler plate setup for any machine learning project.
+# dp-gen
+A test to check if dp-gen can be used to generate force fields for MoS2. If successful this can be used to accelerate ab-inito simulations.
 
 ## Building the conda environment
 
